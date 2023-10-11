@@ -1,0 +1,1 @@
+alter table usuarios drop index email, drop index contrasena;
